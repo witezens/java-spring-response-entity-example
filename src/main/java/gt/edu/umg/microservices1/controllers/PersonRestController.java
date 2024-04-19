@@ -1,7 +1,7 @@
 package gt.edu.umg.microservices1.controllers;
 
-import gt.edu.umg.microservices1.domain.Address;
-import gt.edu.umg.microservices1.domain.Person;
+import gt.edu.umg.microservices1.dto.Address;
+import gt.edu.umg.microservices1.dto.Person;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;

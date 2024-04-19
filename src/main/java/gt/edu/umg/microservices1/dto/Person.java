@@ -1,4 +1,4 @@
-package gt.edu.umg.microservices1.domain;
+package gt.edu.umg.microservices1.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
